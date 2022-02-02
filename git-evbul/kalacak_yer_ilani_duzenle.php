@@ -12,6 +12,10 @@ include_once 'oturumkontrolu.php'; //dönen değer
 
 
 
+  /*Burayı OGM dersinde sonradan ekledim*/
+  echo "bir çıktı";
+
+
 echo '<meta http-equiv="refresh" content="0;url=index.php"> ';
 
 exit;

@@ -9,7 +9,7 @@
 function guvenlik_fonksiyonu($temizlenecek){
 
 	
-
+//bu bir değişiklik midir
 $temizlendi=strip_tags(addslashes(trim($temizlenecek)));
 
 
